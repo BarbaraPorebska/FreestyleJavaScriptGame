@@ -1,1 +1,0 @@
-rootStyles.getPropertyValue
